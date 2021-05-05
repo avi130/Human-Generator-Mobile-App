@@ -1,7 +1,8 @@
 # Human-Generator-Mobile-App (using Flutter & Python) 
 ## Welcome to my scalable Deep Learning Mobile Application 
 
-To run the API(humanflask.py) via FLUTTER you need to run on anaconda :  
+To run the API(humanflask.py) via FLUTTER you need to run on anaconda :
+activate ft
 set FLASK_APP=humanflask.py  
 set FLASK_ENV=development  
 flask run --host=<<IP ADDRESS>>  
