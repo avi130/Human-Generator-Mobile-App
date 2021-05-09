@@ -6,7 +6,7 @@ To run the API(humanflask.py) via FLUTTER you need to run on anaconda :
 activate ft
 set FLASK_APP=humanflask.py  
 set FLASK_ENV=development  
-flask run --host=<<IP ADDRESS>>  
+flask run --host= YOURE IP ADDRESS  
 
 On the 'home' file you sould also change the ip address to yours.  
   
